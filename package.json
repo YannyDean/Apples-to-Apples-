@@ -1,0 +1,17 @@
+{
+  "name": "apples-to-apples",
+  "version": "1.0.0",
+  "description": "3.3 assignment",
+  "type": "module",
+  "main": "src/index.js",
+  "module": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yanny D",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "input": "^1.0.1"
+  }
+}
